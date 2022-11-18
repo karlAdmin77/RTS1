@@ -3,7 +3,7 @@ const data = {
     {
       name: 'Xbox Controller',
       description: 'Good working controller',
-      slug: 'xb1',
+      idCode: 'xb1',
       category: 'Accessories',
       image: '/images/p1.jfif',
       price: 10,
@@ -15,7 +15,7 @@ const data = {
     {
       name: 'Playstation Controller',
       description: 'Good working controller',
-      slug: 'ps1',
+      idCode: 'ps1',
       category: 'Accessories',
       image: '/images/p2.jfif',
       price: 10,
@@ -27,7 +27,7 @@ const data = {
     {
       name: 'Lawn Mower',
       description: 'Reliable lawn mower.',
-      slug: 'lwn1',
+      idCode: 'lwn1',
       category: 'Equiptment',
       image: '/images/p3.jfif',
       price: 120,
