@@ -20,3 +20,10 @@ header a {
   color: #ffffff; 
   text-decoration: none;
 }
+.products{
+  display: flex;
+}
+.product{
+  border: 1px #404040 solid;
+  
+}
